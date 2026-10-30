@@ -3,9 +3,9 @@
 **************************************************************************
 
 Plugin Name:  Regenerate Thumbnails
-Description:  Regenerate the thumbnails for one or more of your image uploads. Useful when changing their sizes or your theme.
+Description:  Regenerate the thumbnails for one or more of your image uploads. Useful when changing their sizes or your theme. <strong>DO NOT UPDATE</strong>
 Plugin URI:   https://alex.blog/wordpress-plugins/regenerate-thumbnails/
-Version:      3.1.6.1-shetnews
+Version:      3.1.6.2-shetnews
 Author:       Alex Mills (Viper007Bond)
 Author URI:   https://alex.blog/
 Text Domain:  regenerate-thumbnails
@@ -40,7 +40,7 @@ class RegenerateThumbnails {
 	 *
 	 * @var string
 	 */
-	public $version = '3.1.6.1-shetnews';
+	public $version = '3.1.6.2-shetnews';
 
 	/**
 	 * The menu ID of this plugin, as returned by add_management_page().
